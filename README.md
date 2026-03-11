@@ -2,7 +2,7 @@
 
 Single-page portfolio — HTML, CSS and vanilla JavaScript. Responsive, dark theme with red accent. Sections: About, Experience & Education, Projects, Contact. Experience and project cards open detail modals; projects support video or image. Language switcher (EN / FR / PT) with preference stored in `localStorage`. Contact form uses Formspree.
 
-**Live:** [sacchetta.dev](https://www.sacchetta.dev)
+**Live:** [sacchetta.dev](https://sacchetta.dev)
 
 ---
 
